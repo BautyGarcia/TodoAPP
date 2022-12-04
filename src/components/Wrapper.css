@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 550px;
+    height: 600px;
+    border-radius: 8px;
+    background-color: 	#662cac;
+    pointer-events: auto;
+}

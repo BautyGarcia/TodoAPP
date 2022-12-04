@@ -1,0 +1,6 @@
+body {
+  background: rgb(148,63,251);
+  background: linear-gradient(90deg, rgba(148,63,251,1) 0%, rgba(252,70,202,1) 100%);
+  pointer-events: none
+}
+
